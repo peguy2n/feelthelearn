@@ -9,37 +9,13 @@ What are the 5 most commonly used functions in Excel?
 
 What are the different date format options in Excel versions 2013 to 2015?
 
-Please answer 6 questions in the spreadsheet day2.xlsx based on the data. You will have to download the excel file to answer.
+Please answer 6 questions in the spreadsheet day1.xlsx based on the data. You will have to download the excel file to answer.
 
 #SQL
-
-Some useful SQL operators while writing queries are:
-
-= Equal to
-
-<> Not equal. Note: In some versions of SQL this operator may be written as !=
-
-> Greater than
-
-< Less than
-
->= Greater than or equal to
-
-<= Less than or equal to
-
-Read further to learn about more operators
-
- 
-
- 
-
  
 [Practice SQL queries](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by answering the following questions.
 
 ​
-
- 
-
 How will you select all data from Customers table?
 
 How will you select CustomerID and CustomerName from Customers table?
