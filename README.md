@@ -2,7 +2,7 @@
 practicing data analytic
 
 #Excel
-[I'm an inline-style link](https://www.google.com)
+
 Give examples of 15 inbuilt functions in Excel.
 
 What are the 5 most commonly used functions in Excel?
@@ -34,8 +34,7 @@ Read further to learn about more operators
  
 
  
-
-#Practice SQL queries by answering the following questions.
+[Practice SQL queries](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) by answering the following questions.
 
 ​
 
