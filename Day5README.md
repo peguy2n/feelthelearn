@@ -11,4 +11,4 @@ Please answer 7 questions in the spreadsheet based on the day5.xlsx. You will ha
 
 SQL
 
-Practice from "SQL Wildcard" to "SQL Alias"
+Practice [from "SQL Wildcard" to "SQL Alias"](https://www.w3schools.com/sql/sql_wildcards.asp)
